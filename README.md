@@ -22,11 +22,11 @@
 
 ## 🚀 快速安装
 
-```bash
-hermes skills install github:Rodneyli/claim-evidence-finder
-```
+本 Skill 所有 AI Agent 通用，不需要任何插件或依赖。直接发送项目地址给你的 Agent，让它获取并适配：
 
-也可以手动复制 `SKILL.md` 到 `~/.hermes/skills/research/claim-evidence-finder/`。
+https://github.com/Rodneyli/claim-evidence-finder
+
+装完直接说「找证据：多任务并行会降低工作效率」，3分钟出报告。基础版零配置即用，接入免费学术 API 精度更高。
 
 ---
 
